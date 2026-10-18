@@ -1,0 +1,4 @@
+*
+!Dockerfile
+!go.mod
+!api_test.go
